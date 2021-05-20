@@ -1,2 +1,2 @@
 # TodoApp-Kotlin
-A todo android app made with kotlin 
+A  basic todo android app made with kotlin as a first project
